@@ -1,0 +1,12 @@
+alves.hudson.meus_exercicios_academia.app-jetified-window-1.0.0-beta04-0 C:\Users\hudso\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+alves.hudson.meus_exercicios_academia.app-jetified-annotation-experimental-1.1.0-1 C:\Users\hudso\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+alves.hudson.meus_exercicios_academia.app-core-1.6.0-2 C:\Users\hudso\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+alves.hudson.meus_exercicios_academia.app-jetified-window-java-1.0.0-beta04-3 C:\Users\hudso\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+alves.hudson.meus_exercicios_academia.app-debug-4 C:\src\meus_exercicios_academia\android\app\src\debug\res
+alves.hudson.meus_exercicios_academia.app-main-5 C:\src\meus_exercicios_academia\android\app\src\main\res
+alves.hudson.meus_exercicios_academia.app-pngs-6 C:\src\meus_exercicios_academia\build\app\generated\res\pngs\debug
+alves.hudson.meus_exercicios_academia.app-resValues-7 C:\src\meus_exercicios_academia\build\app\generated\res\resValues\debug
+alves.hudson.meus_exercicios_academia.app-rs-8 C:\src\meus_exercicios_academia\build\app\generated\res\rs\debug
+alves.hudson.meus_exercicios_academia.app-mergeDebugResources-9 C:\src\meus_exercicios_academia\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+alves.hudson.meus_exercicios_academia.app-mergeDebugResources-10 C:\src\meus_exercicios_academia\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+alves.hudson.meus_exercicios_academia.app-merged_res-11 C:\src\meus_exercicios_academia\build\app\intermediates\merged_res\debug
