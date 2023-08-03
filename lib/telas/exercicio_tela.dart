@@ -22,13 +22,199 @@ class ExercicioTela extends StatelessWidget {
       id: "SE002",
       sentindo: "Nada ainda Ativacao",
       data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
+    ),
+    SentimentoModel(
+      id: "SE002",
+      sentindo: "Nada ainda Ativacao",
+      data: "2023-08-02",
     )
   ];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Remada - Treino A")),
+      appBar: AppBar(
+          title: Text("${exercicioModel.nome} - ${exercicioModel.treino}")),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           print('Foi Clicado');
@@ -37,8 +223,7 @@ class ExercicioTela extends StatelessWidget {
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
+        child: ListView(
           children: [
             ElevatedButton(
               onPressed: () {},
@@ -51,7 +236,7 @@ class ExercicioTela extends StatelessWidget {
                 fontSize: 18,
               ),
             ),
-            const Text('Segura com as duas mãos!'),
+            Text(exercicioModel.comoFazer),
             const Divider(),
             const Text(
               'Como estou me sentindo?',
@@ -60,7 +245,13 @@ class ExercicioTela extends StatelessWidget {
                 fontSize: 18,
               ),
             ),
-            const Text('Segura com as duas mãos!'),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: List.generate(listaSentimentos.length, (index) {
+                SentimentoModel sentimentoAgora = listaSentimentos[index];
+                return Text(sentimentoAgora.sentindo);
+              }),
+            )
           ],
         ),
       ),

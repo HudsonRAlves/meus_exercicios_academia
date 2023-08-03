@@ -1,4 +1,4 @@
-#Tue Aug 01 19:20:12 BRT 2023
+#Thu Aug 03 19:13:10 BRT 2023
 base.0=C\:\\src\\meus_exercicios_academia\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
