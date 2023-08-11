@@ -34,11 +34,11 @@ class ExercicioTela extends StatelessWidget {
           children: [
             Text(
               exercicioModel.nome,
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
             ),
             Text(
               exercicioModel.treino,
-              style: TextStyle(fontSize: 15),
+              style: const TextStyle(fontSize: 15),
             )
           ],
         ),
